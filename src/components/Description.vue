@@ -27,7 +27,7 @@
     <div class="links">
       <ul>
         <li>
-          <a href="#">SoundclouD</a>
+          <a href="#">Soundcloud</a>
         </li>
         <li>
           <a href="#">Discord</a>
