@@ -4,9 +4,9 @@
       <h1>Join The Best Producer Cummunity</h1>
       <p>
         Raw Impulse is a entry point for small Music Producer to
-        <br>get advices and grow.
+        get advices and grow.
         Additionaly you get in touch with
-        <br>others and get featured on our soundcloud.
+        others and get featured on our soundcloud.
       </p>
       <button>Get Started Now</button>
     </div>
@@ -15,12 +15,12 @@
       <div class="yellow box">
         <h1>
           NEW
-          <br>RELEASES.
+          RELEASES.
         </h1>
         <p>
           Check out our newest
-          <br>Releases on Soundcloud
-          <br>to get featured.
+          Releases on Soundcloud
+          to get featured.
         </p>
       </div>
     </div>
